@@ -11,7 +11,7 @@ Aqui você encontrará exemplos, códigos, bibliotecas, ferramentas guias e docu
 
 O objetivo é que o que fizermos de bom dentro do nosso projeto possa ser conhecido e compartilhado para todos do grupo.
 
-Tamanho não é documento! Uma pequeno script para automatizar algo ou um sistema completo pode ser algo incrível e fazer parte dessa lista.
+Tamanho não é documento! Um pequeno script para automatizar algo ou um sistema completo pode ser algo incrível e fazer parte dessa lista.
 
 Se tem dúvida do que deve entrar nessa lista basta fazer 2 perguntas: ***Alguém pode ter um problema similar a esse que eu resolvi?***, ***Isso que eu fiz pode ser reutilizado total ou parcialmente de alguma forma?***, se a resposta for sim o que foi feito deve entrar nessa lista!
 
