@@ -7,7 +7,7 @@
 ([O que é uma Awesome List?](https://github.com/sindresorhus/awesome/blob/main/awesome.md)) 
 ([Guia de Contribuição]())
 
-Aqui você encontrará exemplos, códigos, bibliotecas, ferramentas guias e documentações feitas feitas por pessoas incríveis nos mais diversos projetos da DB1.
+Aqui você encontrará exemplos, códigos, bibliotecas, ferramentas guias e documentações feitas por pessoas incríveis nos mais diversos projetos da DB1.
 
 O objetivo é que o que fizermos de bom dentro do nosso projeto possa ser conhecido e compartilhado para todos do grupo.
 
